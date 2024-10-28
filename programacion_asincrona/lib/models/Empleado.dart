@@ -26,10 +26,6 @@ class Empleado {
       apellido2: json['apellido2'],
       celular: json['celular'],
 
-
-
-
-
       
     );
   }
