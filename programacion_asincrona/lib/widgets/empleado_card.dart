@@ -22,7 +22,7 @@ class EmpleadoCard extends StatelessWidget {
             if (empleado.celular != null) Text('Celular: ${empleado.celular}'),
           ],
         ),
-        tileColor: Colors.blue
+        tileColor: Colors.amber
       ),
     );
   }
